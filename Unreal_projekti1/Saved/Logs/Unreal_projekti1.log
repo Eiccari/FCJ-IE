@@ -1865,3 +1865,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.08-09.52.58:717][376]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
 [2024.10.08-09.52.58:717][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.10.08-09.52.59:896][385]LogSlate: Window 'BT_AI' being destroyed
+[2024.10.08-09.54.15:086][657]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_AI.
+[2024.10.08-09.54.15:093][657]LogMetaSound: Warning: Mismatched transaction entries with keys 'External_None.DACCAA054FA2E2F8FFBB03B98178C442_1.0' and 'External_None.DACCAA054FA2E2F8FFBB03B98178C442_1.0' and transaction types 'NodeUnregistration' and 'NodeRegistration' in a search engine query.							Transactions should be registration and unregistration pairs except for the last entry.

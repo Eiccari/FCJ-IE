@@ -41,6 +41,12 @@
 *.VC.db
 *.VC.opendb
 
+Config/EditorPerProjectUserSettings.ini
+
+# Ignore log files
+*.log
+
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga

@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Unreal_projekti1.cpp.obj": [
+			"Unreal_projekti1.cpp.obj"
+		]
+	}
+}
